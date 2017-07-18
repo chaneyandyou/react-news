@@ -18,6 +18,8 @@ npm start
 
 2.redux方面希望能够用上，还有中间件，异步等
 
+3.利用node进行服务器端渲染
+
 # 备注
 > reaact-news项目是未完成的
 
