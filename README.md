@@ -1,5 +1,5 @@
 # react-news
-这是一个react+react-router+antd+webpack的实战项目，最主要是熟悉了解react+antd的开发模式。
+这是一个react+react-router+antd+webpack的实战项目，目的是为了熟悉react+antd的开发模式。
  
 # 安装启动
 ```
