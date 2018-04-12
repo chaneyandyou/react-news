@@ -23,6 +23,3 @@ npm start
 # 备注
 > reaact-news项目是未完成的
 
-# 联系我
-
-chaneychan@outlook.com
